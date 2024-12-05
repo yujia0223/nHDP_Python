@@ -1,0 +1,75 @@
+{
+    "BTQ": 0.6705240923221956,
+    "LTQ": 0.6472861382857666,
+    "HTQ": 0.6589051153039811,
+    "Coverage_simple": [
+        {
+            "level": "level1",
+            "min_coverage": 0.0014,
+            "max_coverage": 0.0312,
+            "average_coverage": 0.0163
+        },
+        {
+            "level": "level2",
+            "min_coverage": 0.0002,
+            "max_coverage": 0.0283,
+            "average_coverage": 0.009933333333333334
+        }
+    ],
+    "Coverage_doc": [
+        {
+            "level": "level1",
+            "min_coverage": -10.354870807937123,
+            "max_coverage": -10.152603184080345,
+            "average_coverage": -10.253736996008733
+        },
+        {
+            "level": "level2",
+            "min_coverage": -21.863286720989176,
+            "max_coverage": -10.667517435265399,
+            "average_coverage": -16.556996291901914
+        }
+    ],
+    "Coverage_vocab": [
+        {
+            "level": "level1",
+            "min_coverage": -4.353089570066977,
+            "max_coverage": -3.4128125383524037,
+            "average_coverage": -3.8829510542096903
+        },
+        {
+            "level": "level2",
+            "min_coverage": -1.6699017856471383,
+            "max_coverage": 3.1824652093467205,
+            "average_coverage": 0.04358498753423412
+        }
+    ],
+    "child_relatedness": {
+        "('P31', 'Q5', 'P27', 'P106', 'P735')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 2.9915845269555765,
+            "average_relatedness": -7.2462240975140455
+        },
+        "('P31', 'P17', 'P131', 'Q30', 'Q145')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.0567204566929096,
+            "average_relatedness": -7.190585207926458
+        }
+    },
+    "non_child_relatedness": {
+        "('P31', 'Q5', 'P27', 'P106', 'P735')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 2.9086638626512973,
+            "average_relatedness": -17.4511261230686
+        },
+        "('P31', 'P17', 'P131', 'Q30', 'Q145')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.1396411209971897,
+            "average_relatedness": -7.147519701486304
+        }
+    }
+}

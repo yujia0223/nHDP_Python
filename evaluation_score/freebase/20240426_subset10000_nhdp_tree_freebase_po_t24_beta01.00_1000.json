@@ -1,0 +1,75 @@
+{
+    "BTQ": 0.7853365091840039,
+    "LTQ": 0.8052927862364753,
+    "HTQ": 0.7953146477102395,
+    "Coverage_simple": [
+        {
+            "level": "level1",
+            "min_coverage": 0.1227,
+            "max_coverage": 0.2211,
+            "average_coverage": 0.1719
+        },
+        {
+            "level": "level2",
+            "min_coverage": 0.0201,
+            "max_coverage": 0.1858,
+            "average_coverage": 0.057025
+        }
+    ],
+    "Coverage_doc": [
+        {
+            "level": "level1",
+            "min_coverage": -16.115229737673612,
+            "max_coverage": -14.05841808685547,
+            "average_coverage": -15.086823912264542
+        },
+        {
+            "level": "level2",
+            "min_coverage": -25.637461607605175,
+            "max_coverage": -15.976522149798374,
+            "average_coverage": -19.797327672477607
+        }
+    ],
+    "Coverage_vocab": [
+        {
+            "level": "level1",
+            "min_coverage": 0.3610799928709366,
+            "max_coverage": 1.6956681019160658,
+            "average_coverage": 1.0283740473935012
+        },
+        {
+            "level": "level2",
+            "min_coverage": -0.48794041782481784,
+            "max_coverage": 3.7435564129932373,
+            "average_coverage": 2.438787062995669
+        }
+    ],
+    "child_relatedness": {
+        "('/film/film/genre', '/film/film/other_crew./film/film_crew_gig/film_crew_role', '/award/award_winning_work/awards_won./award/award_honor/award', '/award/award_winning_work/awards_won./award/award_honor/award_winner', '/m/09c7w0')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 5.110753699720546,
+            "average_relatedness": -19.445577412016274
+        },
+        "('/people/person/profession', '/award/award_nominee/award_nominations./award/award_nomination/award', '/film/actor/film./film/performance/film', '/people/person/nationality', '/people/person/gender')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 5.126701725927187,
+            "average_relatedness": -19.441590405464613
+        }
+    },
+    "non_child_relatedness": {
+        "('/film/film/genre', '/film/film/other_crew./film/film_crew_gig/film_crew_role', '/award/award_winning_work/awards_won./award/award_honor/award', '/award/award_winning_work/awards_won./award/award_honor/award_winner', '/m/09c7w0')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('/people/person/profession', '/award/award_nominee/award_nominations./award/award_nomination/award', '/film/actor/film./film/performance/film', '/people/person/nationality', '/people/person/gender')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        }
+    }
+}

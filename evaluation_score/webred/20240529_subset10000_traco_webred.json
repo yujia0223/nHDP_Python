@@ -1,0 +1,75 @@
+{
+    "BTQ": 0.18983912080349555,
+    "LTQ": 0.18983912080349558,
+    "HTQ": 0.18983912080349558,
+    "Coverage_simple": [
+        {
+            "level": "level0",
+            "min_coverage": 0.0001,
+            "max_coverage": 0.0001,
+            "average_coverage": 0.0001
+        },
+        {
+            "level": "level1",
+            "min_coverage": 0.0002,
+            "max_coverage": 0.0112,
+            "average_coverage": 0.0034000000000000002
+        }
+    ],
+    "Coverage_doc": [
+        {
+            "level": "level0",
+            "min_coverage": -20.503771219444946,
+            "max_coverage": -18.879905517736326,
+            "average_coverage": -19.691838368590638
+        },
+        {
+            "level": "level1",
+            "min_coverage": -23.314230235759418,
+            "max_coverage": -20.998986113641042,
+            "average_coverage": -22.001514144574045
+        }
+    ],
+    "Coverage_vocab": [
+        {
+            "level": "level0",
+            "min_coverage": 7.208429678990476,
+            "max_coverage": 8.278704927749011,
+            "average_coverage": 7.743567303369744
+        },
+        {
+            "level": "level1",
+            "min_coverage": -1.1590818868535095,
+            "max_coverage": 7.718894677939836,
+            "average_coverage": 4.166327542210342
+        }
+    ],
+    "child_relatedness": {
+        "('-1', 'photodynamic_therapy.', 'total_fertility_rate', 'tracklist', '2004.')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('\u03a8.', 'Pacific_Ocean', 'Panama', \"Palme_d'Or\", 'Paleogene')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        }
+    },
+    "non_child_relatedness": {
+        "('-1', 'photodynamic_therapy.', 'total_fertility_rate', 'tracklist', '2004.')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('\u03a8.', 'Pacific_Ocean', 'Panama', \"Palme_d'Or\", 'Paleogene')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        }
+    }
+}

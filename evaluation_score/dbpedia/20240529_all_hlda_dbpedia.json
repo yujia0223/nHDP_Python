@@ -1,0 +1,237 @@
+{
+    "BTQ": 0.4126350389926732,
+    "LTQ": 0.42378283523587856,
+    "HTQ": 0.41820893711427587,
+    "Coverage_simple": [
+        {
+            "level": 0,
+            "min_coverage": 0.9405286343612335,
+            "max_coverage": 0.9405286343612335,
+            "average_coverage": 0.9405286343612335
+        },
+        {
+            "level": 1,
+            "min_coverage": 0.9295154185022027,
+            "max_coverage": 0.9306167400881057,
+            "average_coverage": 0.9298825256975037
+        },
+        {
+            "level": 2,
+            "min_coverage": 0.0,
+            "max_coverage": 0.005506607929515419,
+            "average_coverage": 0.0014684287812041117
+        },
+        {
+            "level": 3,
+            "min_coverage": 0.0,
+            "max_coverage": 0.5297356828193832,
+            "average_coverage": 0.02092511013215859
+        }
+    ],
+    "Coverage_doc": [
+        {
+            "level": 0,
+            "min_coverage": -9.330749518748513,
+            "max_coverage": -9.330749518748513,
+            "average_coverage": -9.330749518748513
+        },
+        {
+            "level": 1,
+            "min_coverage": -10.43384468429346,
+            "max_coverage": -9.32279616278796,
+            "average_coverage": -9.928672073996031
+        },
+        {
+            "level": 2,
+            "min_coverage": -26.334007197239675,
+            "max_coverage": -9.35409820492897,
+            "average_coverage": -23.829053859575357
+        },
+        {
+            "level": 3,
+            "min_coverage": -27.32246507774458,
+            "max_coverage": -13.094325692880805,
+            "average_coverage": -25.634774870710597
+        }
+    ],
+    "Coverage_vocab": [
+        {
+            "level": 0,
+            "min_coverage": -11.751691143361313,
+            "max_coverage": -11.751691143361313,
+            "average_coverage": -11.751691143361313
+        },
+        {
+            "level": 1,
+            "min_coverage": -2.0151005889376945,
+            "max_coverage": -1.8377194966537955,
+            "average_coverage": -1.931267931830387
+        },
+        {
+            "level": 2,
+            "min_coverage": 3.4833333860113465,
+            "max_coverage": 9.341148352640381,
+            "average_coverage": 7.048170820513715
+        },
+        {
+            "level": 3,
+            "min_coverage": 0.8557093973178793,
+            "max_coverage": 9.853006762279723,
+            "average_coverage": 7.495978220317812
+        }
+    ],
+    "child_relatedness": {
+        "('http://dbpedia.org/ontology/wikiPageWikiLink', 'http://dbpedia.org/property/wikiPageUsesTemplate', 'http://purl.org/dc/terms/subject', 'http://dbpedia.org/resource/Template:Reflist', 'http://purl.org/linguistics/gold/hypernym')": {
+            "level": 1,
+            "min_relatedness": 2.092000939204853,
+            "max_relatedness": 2.12887541364147,
+            "average_relatedness": 2.1093862212157104
+        },
+        "('http://purl.org/dc/terms/subject', 'http://dbpedia.org/property/wikiPageUsesTemplate', 'http://dbpedia.org/resource/Category:Living_people', 'http://dbpedia.org/resource/Template:Reflist', 'http://purl.org/linguistics/gold/hypernym')": {
+            "level": 2,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 2.9466383714335116,
+            "average_relatedness": -17.43846795347453
+        },
+        "('http://purl.org/dc/terms/subject', 'http://dbpedia.org/property/wikiPageUsesTemplate', 'http://purl.org/linguistics/gold/hypernym', 'http://dbpedia.org/resource/Template:Reflist', 'http://dbpedia.org/resource/Template:Authority_control')": {
+            "level": 2,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://purl.org/dc/terms/subject', 'http://purl.org/linguistics/gold/hypernym', 'http://dbpedia.org/resource/Template:Reflist', 'http://dbpedia.org/property/wikiPageUsesTemplate', 'http://dbpedia.org/property/formerTeams')": {
+            "level": 2,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://dbpedia.org/resource/Sweden', 'http://dbpedia.org/resource/Category:Uninhabited_islands_of_the_Bahamas', 'http://dbpedia.org/resource/Category:Lund_University_alumni', 'http://dbpedia.org/resource/Category:Swedish_screenwriters', 'http://dbpedia.org/resource/Category:Italian_female_swimmers')": {
+            "level": 3,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://dbpedia.org/resource/Texas', 'http://dbpedia.org/resource/Democratic_Party_(United_States)', 'http://dbpedia.org/resource/Pacific_Time_Zone', 'http://dbpedia.org/resource/California', 'http://dbpedia.org/resource/Sri_Lanka')": {
+            "level": 3,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://dbpedia.org/resource/Japan', 'http://dbpedia.org/resource/Japanese_language', 'http://dbpedia.org/resource/Template:Nihongo', 'http://dbpedia.org/resource/Template:Infobox_mountain', 'http://dbpedia.org/resource/Jura_mountains')": {
+            "level": 3,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 7.60687381502846,
+            "average_relatedness": -17.81622438061304
+        },
+        "('http://dbpedia.org/resource/Category:Palatinate_Forest', 'http://dbpedia.org/resource/Israeli_(newspaper)', 'http://dbpedia.org/resource/Template:Lists_of_heads_of_UK_diplomatic_missions', 'http://dbpedia.org/resource/Jonathan_Allen', 'http://dbpedia.org/resource/Frederick_Wright-Bruce')": {
+            "level": 3,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://dbpedia.org/resource/City', 'http://dbpedia.org/resource/Portuguese_real', 'http://dbpedia.org/resource/Lisbon', 'http://dbpedia.org/ontology/anthem', 'http://dbpedia.org/resource/Ancient_Greek_religion')": {
+            "level": 3,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://purl.org/linguistics/gold/hypernym', 'http://dbpedia.org/resource/Template:Reflist', 'http://dbpedia.org/ontology/country', 'http://dbpedia.org/resource/Template:Authority_control', 'http://dbpedia.org/resource/Administrative_divisions_of_the_Maldives')": {
+            "level": 3,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://dbpedia.org/resource/Ontario', 'http://dbpedia.org/property/location', 'http://dbpedia.org/resource/Pop_music', 'http://dbpedia.org/resource/Cyprus', 'http://dbpedia.org/resource/Lieyu')": {
+            "level": 3,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 6.6199397652023855,
+            "average_relatedness": -16.21403415555157
+        },
+        "('http://dbpedia.org/resource/Category:20th-century_British_male_actors', 'http://dbpedia.org/resource/Category:British_male_film_actors', 'http://dbpedia.org/resource/Category:British_television_actresses', 'http://dbpedia.org/resource/Wales', 'http://dbpedia.org/resource/Heartbeat_(UK_TV_series)')": {
+            "level": 3,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://dbpedia.org/resource/Category:English_footballers', 'http://dbpedia.org/ontology/deathPlace', 'http://dbpedia.org/resource/Buffalo', '_New_York', 'http://dbpedia.org/resource/FC_Basel', 'http://dbpedia.org/resource/Running_back')": {
+            "level": 3,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        }
+    },
+    "non_child_relatedness": {
+        "('http://purl.org/dc/terms/subject', 'http://dbpedia.org/property/wikiPageUsesTemplate', 'http://dbpedia.org/resource/Category:Living_people', 'http://dbpedia.org/resource/Template:Reflist', 'http://purl.org/linguistics/gold/hypernym')": {
+            "level": 2,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://purl.org/dc/terms/subject', 'http://dbpedia.org/property/wikiPageUsesTemplate', 'http://purl.org/linguistics/gold/hypernym', 'http://dbpedia.org/resource/Template:Reflist', 'http://dbpedia.org/resource/Template:Authority_control')": {
+            "level": 2,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.2129945068394727,
+            "average_relatedness": -19.92001721023654
+        },
+        "('http://purl.org/dc/terms/subject', 'http://purl.org/linguistics/gold/hypernym', 'http://dbpedia.org/resource/Template:Reflist', 'http://dbpedia.org/property/wikiPageUsesTemplate', 'http://dbpedia.org/property/formerTeams')": {
+            "level": 2,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 2.9835128458701314,
+            "average_relatedness": -23.80420437070371
+        },
+        "('http://dbpedia.org/resource/Sweden', 'http://dbpedia.org/resource/Category:Uninhabited_islands_of_the_Bahamas', 'http://dbpedia.org/resource/Category:Lund_University_alumni', 'http://dbpedia.org/resource/Category:Swedish_screenwriters', 'http://dbpedia.org/resource/Category:Italian_female_swimmers')": {
+            "level": 3,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://dbpedia.org/resource/Texas', 'http://dbpedia.org/resource/Democratic_Party_(United_States)', 'http://dbpedia.org/resource/Pacific_Time_Zone', 'http://dbpedia.org/resource/California', 'http://dbpedia.org/resource/Sri_Lanka')": {
+            "level": 3,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://dbpedia.org/resource/Japan', 'http://dbpedia.org/resource/Japanese_language', 'http://dbpedia.org/resource/Template:Nihongo', 'http://dbpedia.org/resource/Template:Infobox_mountain', 'http://dbpedia.org/resource/Jura_mountains')": {
+            "level": 3,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://dbpedia.org/resource/Category:Palatinate_Forest', 'http://dbpedia.org/resource/Israeli_(newspaper)', 'http://dbpedia.org/resource/Template:Lists_of_heads_of_UK_diplomatic_missions', 'http://dbpedia.org/resource/Jonathan_Allen', 'http://dbpedia.org/resource/Frederick_Wright-Bruce')": {
+            "level": 3,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://dbpedia.org/resource/City', 'http://dbpedia.org/resource/Portuguese_real', 'http://dbpedia.org/resource/Lisbon', 'http://dbpedia.org/ontology/anthem', 'http://dbpedia.org/resource/Ancient_Greek_religion')": {
+            "level": 3,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 5.885057310865856,
+            "average_relatedness": -26.986481146182502
+        },
+        "('http://purl.org/linguistics/gold/hypernym', 'http://dbpedia.org/resource/Template:Reflist', 'http://dbpedia.org/ontology/country', 'http://dbpedia.org/resource/Template:Authority_control', 'http://dbpedia.org/resource/Administrative_divisions_of_the_Maldives')": {
+            "level": 3,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928544
+        },
+        "('http://dbpedia.org/resource/Ontario', 'http://dbpedia.org/property/location', 'http://dbpedia.org/resource/Pop_music', 'http://dbpedia.org/resource/Cyprus', 'http://dbpedia.org/resource/Lieyu')": {
+            "level": 3,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 7.219477446640022,
+            "average_relatedness": -25.265514275111
+        },
+        "('http://dbpedia.org/resource/Category:20th-century_British_male_actors', 'http://dbpedia.org/resource/Category:British_male_film_actors', 'http://dbpedia.org/resource/Category:British_television_actresses', 'http://dbpedia.org/resource/Wales', 'http://dbpedia.org/resource/Heartbeat_(UK_TV_series)')": {
+            "level": 3,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.63102111592855
+        },
+        "('http://dbpedia.org/resource/Category:English_footballers', 'http://dbpedia.org/ontology/deathPlace', 'http://dbpedia.org/resource/Buffalo', '_New_York', 'http://dbpedia.org/resource/FC_Basel', 'http://dbpedia.org/resource/Running_back')": {
+            "level": 3,
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        }
+    }
+}

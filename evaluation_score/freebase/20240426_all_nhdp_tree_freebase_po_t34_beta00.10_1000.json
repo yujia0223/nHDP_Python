@@ -1,0 +1,44 @@
+{
+    "BTQ": 0.6964042157264392,
+    "LTQ": 0.7050913836514043,
+    "HTQ": 0.7007477996889218,
+    "Coverage_simple": [
+        {
+            "('/film/actor/film./film/performance/film', '/award/award_nominee/award_nominations./award/award_nomination/award_nominee', '/award/award_nominee/award_nominations./award/award_nomination/award', '/people/person/profession', '/award/award_nominee/award_nominations./award/award_nomination/nominated_for')": 0.22850301139249693,
+            "('/award/award_ceremony/awards_presented./award/award_honor/award_winner', '/media_common/netflix_genre/titles', '/people/ethnicity/people', '/award/award_ceremony/awards_presented./award/award_honor/honored_for', '/people/ethnicity/languages_spoken')": 0.018793991727741093,
+            "('/film/film/release_date_s./film/film_regional_release_date/film_release_region', '/m/0f8l9c', '/film/film/genre', '/film/film/other_crew./film/film_crew_gig/film_crew_role', '/m/09c7w0')": 0.11602931572454829
+        },
+        {
+            "('/m/08mbj5d', '/common/topic/webpage./common/webpage/category', '/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location', '/sports/sports_team/roster./american_football/football_historical_roster_position/position_s', '/sports/sports_team/roster./american_football/football_roster_position/position')": 0.0069661127639503665,
+            "('/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor', '/tv/tv_program/genre', '/award/award_winning_work/awards_won./award/award_honor/award_winner', '/award/award_winning_work/awards_won./award/award_honor/award', '/olympics/olympic_games/sports')": 0.04186924025832668,
+            "('/award/award_nominee/award_nominations./award/award_nomination/award_nominee', '/award/award_winner/awards_won./award/award_honor/award_winner', '/government/legislative_session/members./government/government_position_held/legislative_sessions', '/government/legislative_session/members./government/government_position_held/district_represented', '/film/actor/film./film/performance/film')": 0.1292359045062042,
+            "('/award/award_category/winners./award/award_honor/award_winner', '/award/award_category/nominees./award/award_nomination/nominated_for', '/award/award_category/winners./award/award_honor/ceremony', '/award/award_category/disciplines_or_subjects', '/award/award_category/category_of')": 0.028880342500544227,
+            "('/education/educational_institution/students_graduates./education/education/major_field_of_study', '/m/09nqf', '/education/educational_institution/students_graduates./education/education/student', '/education/educational_institution/colors', '/education/educational_institution/school_type')": 0.03722516508235977,
+            "('/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics', '/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics', '/military/military_combatant/military_conflicts./military/military_combatant_group/combatants', '/m/09nqf', '/organization/organization_member/member_of./organization/organization_membership/organization')": 0.017850663957622814,
+            "('/soccer/football_team/current_roster./soccer/football_roster_position/position', '/soccer/football_team/current_roster./sports/sports_team_roster/position', '/m/02nzb8', '/m/02sdk9v', '/m/02_j1w')": 0.05289891880124809,
+            "('/people/cause_of_death/people', '/medicine/disease/notable_people_with_this_condition', '/medicine/disease/risk_factors', '/m/012z8_', '/m/0jpmt')": 0.0031928016834772512,
+            "('/location/location/contains', '/location/location/adjoin_s./location/adjoining_relationship/adjoins', '/location/location/time_zones', '/m/0jbk9', '/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source')": 0.02655830491256077,
+            "('/music/genre/artists', '/music/record_label/artist', '/music/performance_role/track_performances./music/track_contribution/role', '/music/performance_role/regular_performances./music/group_membership/role', '/music/genre/parent_genre')": 0.03011392496916044,
+            "('/film/film/genre', '/film/film/other_crew./film/film_crew_gig/film_crew_role', '/award/award_winning_work/awards_won./award/award_honor/award', '/award/award_winning_work/awards_won./award/award_honor/award_winner', '/film/film/language')": 0.12386619258399245,
+            "('/award/award_nominee/award_nominations./award/award_nomination/award_nominee', '/award/award_nominee/award_nominations./award/award_nomination/award', '/people/person/profession', '/award/award_winner/awards_won./award/award_honor/award_winner', '/music/artist/track_contributions./music/track_contribution/role')": 0.19882446847108337
+        }
+    ],
+    "Coverage_doc": [
+        -15.770764884603603,
+        -20.0417979260514
+    ],
+    "Coverage_vocab": [
+        1.3091221417646366,
+        2.917150320708878
+    ],
+    "child_relatedness": {
+        "('/film/actor/film./film/performance/film', '/award/award_nominee/award_nominations./award/award_nomination/award_nominee', '/award/award_nominee/award_nominations./award/award_nomination/award', '/people/person/profession', '/award/award_nominee/award_nominations./award/award_nomination/nominated_for')": -19.28545998650865,
+        "('/film/film/release_date_s./film/film_regional_release_date/film_release_region', '/m/0f8l9c', '/film/film/genre', '/film/film/other_crew./film/film_crew_gig/film_crew_role', '/m/09c7w0')": -19.230320393797225,
+        "('/award/award_ceremony/awards_presented./award/award_honor/award_winner', '/media_common/netflix_genre/titles', '/people/ethnicity/people', '/award/award_ceremony/awards_presented./award/award_honor/honored_for', '/people/ethnicity/languages_spoken')": -27.631021115921637
+    },
+    "non_child_relatedness": {
+        "('/film/actor/film./film/performance/film', '/award/award_nominee/award_nominations./award/award_nomination/award_nominee', '/award/award_nominee/award_nominations./award/award_nomination/award', '/people/person/profession', '/award/award_nominee/award_nominations./award/award_nomination/nominated_for')": -23.471729195969136,
+        "('/film/film/release_date_s./film/film_regional_release_date/film_release_region', '/m/0f8l9c', '/film/film/genre', '/film/film/other_crew./film/film_crew_gig/film_crew_role', '/m/09c7w0')": -27.631021115925094,
+        "('/award/award_ceremony/awards_presented./award/award_honor/award_winner', '/media_common/netflix_genre/titles', '/people/ethnicity/people', '/award/award_ceremony/awards_presented./award/award_honor/honored_for', '/people/ethnicity/languages_spoken')": -27.631021115925094
+    }
+}

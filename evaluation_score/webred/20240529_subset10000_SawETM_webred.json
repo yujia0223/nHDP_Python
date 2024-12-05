@@ -1,0 +1,75 @@
+{
+    "BTQ": 0.4099138181917832,
+    "LTQ": 0.4807290351859482,
+    "HTQ": 0.44532142668886565,
+    "Coverage_simple": [
+        {
+            "level": "level0",
+            "min_coverage": 0.01,
+            "max_coverage": 0.0431,
+            "average_coverage": 0.02655
+        },
+        {
+            "level": "level1",
+            "min_coverage": 0.0063,
+            "max_coverage": 0.0451,
+            "average_coverage": 0.01835
+        }
+    ],
+    "Coverage_doc": [
+        {
+            "level": "level0",
+            "min_coverage": -20.78858654466728,
+            "max_coverage": -18.781078207623658,
+            "average_coverage": -19.784832376145467
+        },
+        {
+            "level": "level1",
+            "min_coverage": -22.257971463433233,
+            "max_coverage": -19.840510214667244,
+            "average_coverage": -20.950549079509518
+        }
+    ],
+    "Coverage_vocab": [
+        {
+            "level": "level0",
+            "min_coverage": -5.729865347829912,
+            "max_coverage": 1.7096756416828505,
+            "average_coverage": -2.0100948530735305
+        },
+        {
+            "level": "level1",
+            "min_coverage": -3.107393232870982,
+            "max_coverage": 2.8228737348257464,
+            "average_coverage": -0.2534071780505552
+        }
+    ],
+    "child_relatedness": {
+        "('country', 'located_in_the_administrative_territorial_entity', 'diplomatic_relation', 'shares_border_with', 'contains_administrative_territorial_entity')": {
+            "level": "level1",
+            "min_relatedness": 3.808780570766301,
+            "max_relatedness": 3.8889713728108912,
+            "average_relatedness": 3.8618345119604576
+        },
+        "('country_of_citizenship', 'member_of_sports_team', 'place_of_birth', 'has_part', 'oxidation_state')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 5.480240900244914,
+            "average_relatedness": -5.7338867776694356
+        }
+    },
+    "non_child_relatedness": {
+        "('country', 'located_in_the_administrative_territorial_entity', 'diplomatic_relation', 'shares_border_with', 'contains_administrative_territorial_entity')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.59795386450548,
+            "average_relatedness": -17.221362789117205
+        },
+        "('country_of_citizenship', 'member_of_sports_team', 'place_of_birth', 'has_part', 'oxidation_state')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "BTQ": 0.20285525435965665,
+    "LTQ": 0.20285525435965665,
+    "HTQ": 0.20285525435965665,
+    "Coverage_simple": [
+        {
+            "level": "level0",
+            "min_coverage": 0.0,
+            "max_coverage": 0.0,
+            "average_coverage": 0.0
+        },
+        {
+            "level": "level1",
+            "min_coverage": 0.0,
+            "max_coverage": 0.0,
+            "average_coverage": 0.0
+        }
+    ],
+    "Coverage_doc": [
+        {
+            "level": "level0",
+            "min_coverage": -23.190564498815537,
+            "max_coverage": -23.190564498815537,
+            "average_coverage": -23.190564498815537
+        },
+        {
+            "level": "level1",
+            "min_coverage": -21.13458948839048,
+            "max_coverage": -19.340165752974624,
+            "average_coverage": -20.338965210871482
+        }
+    ],
+    "Coverage_vocab": [
+        {
+            "level": "level0",
+            "min_coverage": 5.853174190701756,
+            "max_coverage": 5.853174190701756,
+            "average_coverage": 5.853174190701756
+        },
+        {
+            "level": "level1",
+            "min_coverage": 9.610734070926105,
+            "max_coverage": 10.304833863307493,
+            "average_coverage": 9.902991496302901
+        }
+    ],
+    "child_relatedness": {
+        "('Q2482942', 'Q2537765', 'Q128047', 'Q668', 'Q26678')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        }
+    },
+    "non_child_relatedness": {}
+}

@@ -1,0 +1,723 @@
+{
+    "BTQ": 0.2687802230159578,
+    "LTQ": 0.21992805571632693,
+    "HTQ": 0.24435413936614236,
+    "Coverage_simple": [
+        {
+            "level": "level0",
+            "min_coverage": 0.0582,
+            "max_coverage": 0.0582,
+            "average_coverage": 0.0582
+        },
+        {
+            "level": "level1",
+            "min_coverage": 0.0,
+            "max_coverage": 0.042,
+            "average_coverage": 0.004785185185185186
+        },
+        {
+            "level": "level2",
+            "min_coverage": 0.0,
+            "max_coverage": 0.0534,
+            "average_coverage": 0.0004997324414715719
+        }
+    ],
+    "Coverage_doc": [
+        {
+            "level": "level0",
+            "min_coverage": -16.657201844528995,
+            "max_coverage": -16.657201844528995,
+            "average_coverage": -16.657201844528995
+        },
+        {
+            "level": "level1",
+            "min_coverage": -25.18937134934684,
+            "max_coverage": -20.436027797796864,
+            "average_coverage": -23.372123443096807
+        },
+        {
+            "level": "level2",
+            "min_coverage": -27.17733270726638,
+            "max_coverage": -19.221969007603448,
+            "average_coverage": -25.781403223331502
+        }
+    ],
+    "Coverage_vocab": [
+        {
+            "level": "level0",
+            "min_coverage": -5.117051846421718,
+            "max_coverage": -5.117051846421718,
+            "average_coverage": -5.117051846421718
+        },
+        {
+            "level": "level1",
+            "min_coverage": -5.974387739619876,
+            "max_coverage": 9.474420307621596,
+            "average_coverage": 4.773532485420836
+        },
+        {
+            "level": "level2",
+            "min_coverage": -5.6215885871605975,
+            "max_coverage": 9.81164931067093,
+            "average_coverage": 7.6764018966365475
+        }
+    ],
+    "child_relatedness": {
+        "('country', 'located_in_the_administrative_territorial_entity', 'United_States_of_America', 'country_of_citizenship', 'headquarters_location')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 4.038668572747602,
+            "average_relatedness": -22.37643089432126
+        },
+        "('diplomatic_relation', 'shares_border_with', 'country', 'United_States_of_America', 'contains_administrative_territorial_entity')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.569299636961171,
+            "average_relatedness": -26.277961194682398
+        },
+        "('United_States_of_America', 'country', 'Missouri', 'shares_border_with', 'capital')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.9218781270775467,
+            "average_relatedness": -27.035683394362398
+        },
+        "('shares_border_with', 'Iran', 'instance_of', 'continent', 'Russia')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 5.352079663308716,
+            "average_relatedness": -25.463065980508503
+        },
+        "('Colorado', 'Joseph_Haydn', 'English', 'Thomas_M._Achenbach', 'Linkin_Park')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Pakistan', 'part_of', 'occupant', 'South_Africa', 'Televisa')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 7.087018866461107,
+            "average_relatedness": -25.903012985278316
+        },
+        "('Oxford_railway_station', 'Oxford', 'South_Africa', 'Nigeria', 'inception')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('located_in_the_administrative_territorial_entity', 'Virginia', 'Colorado', 'Los_Angeles', 'United_Kingdom')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 5.2506088542983305,
+            "average_relatedness": -25.353664021508305
+        },
+        "('Poland', 'National_League', 'Do\u00f1a_Ana_County', '1984', 'Aruba')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Hong_Kong', 'Barbie', 'Isles_of_Scilly', 'instance_of', 'Coyoac\u00e1n')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('C-reactive_protein', 'Arizona', 'BCL2_associated_X', '_apoptosis_regulator', 'different_from', 'father')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.01134975327262,
+            "average_relatedness": -26.8389684299463
+        },
+        "('original_network', 'City_University_of_New_York', 'Point_Loma_Nazarene_University', 'publisher', 'Kadokawa_Shoten')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.193676623694405,
+            "average_relatedness": -26.304180458905474
+        },
+        "('Latvia', 'Bahamas', 'San_Francisco', 'Portland', 'edition_or_translation_of')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Warsaw', 'Beaufort', 'operating_area', 'Louisville', 'member_of_sports_team')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Lebanon', 'Dallas', 'Royal_Navy', 'Russia', 'Mytilene')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Madeira', 'Philippines', 'Montreal', 'Connecticut', 'Papua_New_Guinea')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Stryper', 'student', 'Tanzania', 'Euclid_of_Megara', 'Tangipahoa_Parish')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Stonewall', 'Moscow', 'Beijing', 'Melrose', 'Mount_Carmel')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('doctoral_student', 'Paula_Isabel_da_Silva_Moreira', 'operating_area', 'Roman_Empire', 'Syria')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.454226780311908,
+            "average_relatedness": -26.466980861211113
+        },
+        "('doctoral_student', 'Bangkok', 'Winooski', 'Rupert_Murdoch', 'participant_of')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.84664772772497,
+            "average_relatedness": -26.491093964564374
+        },
+        "('Saint_Petersburg', '2011', 'Fife', 'original_language_of_film_or_TV_show', 'Dutch_Republic')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Belmont', 'Pfizer', 'Tunisia', 'Tennessee', 'encodes')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Annapolis', 'Charleston', 'Maastricht', 'Netherlands', 'Travancore')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 6.5764652646182675,
+            "average_relatedness": -26.527553813330265
+        },
+        "('Saudi_Arabia', 'Gisbert_Hasenjaeger', 'located_in_the_administrative_territorial_entity', 'Northwestern_University', 'M\u00fcnster')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('chairperson', 'United_States_of_America', 'Baauer', 'Russia', 'Yellow_Magic_Orchestra')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Baltimore', 'Bi\u00ean_H\u00f2a', 'BBC', 'non-coding_RNA', 'Saudi_Arabia')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.369329122139266,
+            "average_relatedness": -26.131006522675722
+        },
+        "('Bosnia_and_Herzegovina', 'The_Wealth_of_Nations', 'Half-Life_2', 'operating_system', 'conferred_by')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Russian_Empire', 'Taiwan', 'Anno_Domini', 'Johnson_&_Johnson', 'allegiance')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 6.903894373864928,
+            "average_relatedness": -26.302755135551877
+        },
+        "('architect', 'Puebla', 'United_States_of_America', 'Legendre_polynomials', 'World_Wide_Web_Consortium')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Saskatchewan', 'Bernard_Brunhes', 'Goldfinger', 'Frankfurt', 'Washington_&_Jefferson_College')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('participant_of', 'Wear_OS', 'operating_system', 'located_in_the_administrative_territorial_entity', 'Lena_Dunham')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Harvard_University', 'basin_country', 'Slovenia', 'date_of_birth', 'Sapporo')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 6.7653372091143575,
+            "average_relatedness": -26.30808425727305
+        },
+        "('operator', 'Ohio_River', 'Boston', 'shares_border_with', 'Grenoble')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Elvis_Presley', 'Brazil', 'doctoral_advisor', 'Atlantic_Ocean', 'Brooklyn')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Nebraska', 'Grenoble', 'Vienna', 'Bern', 'country')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Thailand', 'winner', 'Norway', 'Libya', 'Biblioteka_Imeni_Lenina')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.45143080376976,
+            "average_relatedness": -26.503444493437975
+        },
+        "('Judas_Priest', 'Canberra', 'Lanham', 'Warcraft', 'replaces')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 9.189698585276645,
+            "average_relatedness": -26.315995412314074
+        },
+        "('Australia', 'Sydney', 'capital', 'Syria', 'Thailand')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 6.289402671080652,
+            "average_relatedness": -26.57100787258451
+        },
+        "('Turkey', 'magnetic_resonance_imaging', 'Manhattan', 'member_of_sports_team', 'platform')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 4.200760804745408,
+            "average_relatedness": -26.56996171857275
+        },
+        "('record_label', 'Missouri', 'field_of_work', 'licensed_to_broadcast_to', 'Japan_Aerospace_Exploration_Agency')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.63102111592855
+        },
+        "('Czech_Republic', 'Sydney', 'Lily_Afshar', 'part_of', 'Saxony')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('part_of', 'Poland', 'Edinburgh', 'parent_taxon', 'Glaux_maritima')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('member_of_sports_team', 'Atlanta', 'country', 'Kazakhstan', 'terminus_location')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928544
+        },
+        "('New_Orleans', 'located_on_terrain_feature', '2012', 'Wyoming', 'inception')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Washington', '_D.C.', 'Orientalism', 'movement', 'Turner_Broadcasting_System', 'Domain_Name_System')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Malta', 'represents', 'Albany', 'field_of_work', 'Brown_University')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 9.176626503709292,
+            "average_relatedness": -26.404099528607286
+        },
+        "('Boston', 'New_Jersey', '13', 'League_of_Legends', 'Orphism')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Lianne_La_Havas', 'Michigan', 'Salt_Lake_City', 'Lantana', 'Louisiana')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Sri_Lanka', 'Astrid_Lindgren', 'continent', 'Romania', 'State_of_Palestine')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('part_of', 'editor', 'North_Carolina', 'Berkshire_Hathaway', 'Canadian_Broadcasting_Corporation')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 6.894358239454401,
+            "average_relatedness": -26.517299201238774
+        },
+        "('BBC_One', 'Japan', 'May_9_1943', 'San_Francisco', 'Scotland')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Three_Kingdoms', 'Russia', 'Moscow', 'Canberra', 'signatory')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Soundgarden', 'Greece', \"McDonald's\", 'present_in_work', 'Uncle_Remus')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('0.5', 'numeric_value', 'New_South_Wales', 'Rochester', 'Atlanta')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Fuyang', 'Glarus', 'Glasgow', 'Glasgow_South_Western_Line', 'Glass')": {
+            "level": "level2",
+            "min_relatedness": 10.05209524106319,
+            "max_relatedness": 11.351378225193452,
+            "average_relatedness": 10.660553934405536
+        }
+    },
+    "non_child_relatedness": {
+        "('diplomatic_relation', 'shares_border_with', 'country', 'United_States_of_America', 'contains_administrative_territorial_entity')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.939253723028491,
+            "average_relatedness": -27.305332240293016
+        },
+        "('United_States_of_America', 'country', 'Missouri', 'shares_border_with', 'capital')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 4.212872795752957,
+            "average_relatedness": -27.23714799414029
+        },
+        "('shares_border_with', 'Iran', 'instance_of', 'continent', 'Russia')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 5.696441107675116,
+            "average_relatedness": -27.3160415360106
+        },
+        "('Colorado', 'Joseph_Haydn', 'English', 'Thomas_M._Achenbach', 'Linkin_Park')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.407324899714784,
+            "average_relatedness": -27.462288509099217
+        },
+        "('Pakistan', 'part_of', 'occupant', 'South_Africa', 'Televisa')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 7.299454403502844,
+            "average_relatedness": -27.370422110744066
+        },
+        "('Oxford_railway_station', 'Oxford', 'South_Africa', 'Nigeria', 'inception')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 7.898160151910013,
+            "average_relatedness": -27.223495853817774
+        },
+        "('located_in_the_administrative_territorial_entity', 'Virginia', 'Colorado', 'Los_Angeles', 'United_Kingdom')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 5.248741440123535,
+            "average_relatedness": -27.256299463967043
+        },
+        "('Poland', 'National_League', 'Do\u00f1a_Ana_County', '1984', 'Aruba')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.821316126732356,
+            "average_relatedness": -27.58206664929898
+        },
+        "('Hong_Kong', 'Barbie', 'Isles_of_Scilly', 'instance_of', 'Coyoac\u00e1n')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.763614189965745,
+            "average_relatedness": -27.509998022583883
+        },
+        "('C-reactive_protein', 'Arizona', 'BCL2_associated_X', '_apoptosis_regulator', 'different_from', 'father')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.709746289718709,
+            "average_relatedness": -27.482477255517594
+        },
+        "('original_network', 'City_University_of_New_York', 'Point_Loma_Nazarene_University', 'publisher', 'Kadokawa_Shoten')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.86550023001582,
+            "average_relatedness": -27.31370502766599
+        },
+        "('Latvia', 'Bahamas', 'San_Francisco', 'Portland', 'edition_or_translation_of')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 9.15901553588734,
+            "average_relatedness": -27.390991952616137
+        },
+        "('Warsaw', 'Beaufort', 'operating_area', 'Louisville', 'member_of_sports_team')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 7.283129350078236,
+            "average_relatedness": -27.393522379294886
+        },
+        "('Lebanon', 'Dallas', 'Royal_Navy', 'Russia', 'Mytilene')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 7.842345415211641,
+            "average_relatedness": -27.350041721813003
+        },
+        "('Madeira', 'Philippines', 'Montreal', 'Connecticut', 'Papua_New_Guinea')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.839369645627661,
+            "average_relatedness": -27.31346709825256
+        },
+        "('Stryper', 'student', 'Tanzania', 'Euclid_of_Megara', 'Tangipahoa_Parish')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 9.433056032656967,
+            "average_relatedness": -27.413058669046084
+        },
+        "('Stonewall', 'Moscow', 'Beijing', 'Melrose', 'Mount_Carmel')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 9.121144406492494,
+            "average_relatedness": -27.582241617841586
+        },
+        "('doctoral_student', 'Paula_Isabel_da_Silva_Moreira', 'operating_area', 'Roman_Empire', 'Syria')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.914234869725965,
+            "average_relatedness": -27.35999466086201
+        },
+        "('doctoral_student', 'Bangkok', 'Winooski', 'Rupert_Murdoch', 'participant_of')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.750225819067955,
+            "average_relatedness": -27.48406012247416
+        },
+        "('Saint_Petersburg', '2011', 'Fife', 'original_language_of_film_or_TV_show', 'Dutch_Republic')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 9.272713382581788,
+            "average_relatedness": -27.36050614404897
+        },
+        "('Belmont', 'Pfizer', 'Tunisia', 'Tennessee', 'encodes')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.257468789712464,
+            "average_relatedness": -27.439072506761317
+        },
+        "('Annapolis', 'Charleston', 'Maastricht', 'Netherlands', 'Travancore')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.87578415982569,
+            "average_relatedness": -27.532946168786015
+        },
+        "('Saudi_Arabia', 'Gisbert_Hasenjaeger', 'located_in_the_administrative_territorial_entity', 'Northwestern_University', 'M\u00fcnster')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 5.558984896656255,
+            "average_relatedness": -27.454923100393113
+        },
+        "('chairperson', 'United_States_of_America', 'Baauer', 'Russia', 'Yellow_Magic_Orchestra')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 5.392692184541161,
+            "average_relatedness": -27.477890223204508
+        },
+        "('Baltimore', 'Bi\u00ean_H\u00f2a', 'BBC', 'non-coding_RNA', 'Saudi_Arabia')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.90935390059752,
+            "average_relatedness": -27.46205373873378
+        },
+        "('Bosnia_and_Herzegovina', 'The_Wealth_of_Nations', 'Half-Life_2', 'operating_system', 'conferred_by')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 9.606624798341327,
+            "average_relatedness": -27.35930406413272
+        },
+        "('Russian_Empire', 'Taiwan', 'Anno_Domini', 'Johnson_&_Johnson', 'allegiance')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 9.504979615892,
+            "average_relatedness": -27.35822120542746
+        },
+        "('architect', 'Puebla', 'United_States_of_America', 'Legendre_polynomials', 'World_Wide_Web_Consortium')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 5.460116283501329,
+            "average_relatedness": -27.409245544790604
+        },
+        "('Saskatchewan', 'Bernard_Brunhes', 'Goldfinger', 'Frankfurt', 'Washington_&_Jefferson_College')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('participant_of', 'Wear_OS', 'operating_system', 'located_in_the_administrative_territorial_entity', 'Lena_Dunham')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 5.559440270070317,
+            "average_relatedness": -27.47585200159305
+        },
+        "('Harvard_University', 'basin_country', 'Slovenia', 'date_of_birth', 'Sapporo')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 7.749346115043462,
+            "average_relatedness": -27.30127301210287
+        },
+        "('operator', 'Ohio_River', 'Boston', 'shares_border_with', 'Grenoble')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 5.86921653734008,
+            "average_relatedness": -27.22690370052848
+        },
+        "('Elvis_Presley', 'Brazil', 'doctoral_advisor', 'Atlantic_Ocean', 'Brooklyn')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.027754809128181,
+            "average_relatedness": -27.12815367861316
+        },
+        "('Nebraska', 'Grenoble', 'Vienna', 'Bern', 'country')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 4.902385083462368,
+            "average_relatedness": -27.41375926771577
+        },
+        "('Thailand', 'winner', 'Norway', 'Libya', 'Biblioteka_Imeni_Lenina')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.264703953507889,
+            "average_relatedness": -27.294161315439208
+        },
+        "('Judas_Priest', 'Canberra', 'Lanham', 'Warcraft', 'replaces')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 9.465308076494155,
+            "average_relatedness": -27.459331693757207
+        },
+        "('Australia', 'Sydney', 'capital', 'Syria', 'Thailand')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 6.400521077696095,
+            "average_relatedness": -27.402183480158865
+        },
+        "('Turkey', 'magnetic_resonance_imaging', 'Manhattan', 'member_of_sports_team', 'platform')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 7.095887734158832,
+            "average_relatedness": -27.212112576126536
+        },
+        "('record_label', 'Missouri', 'field_of_work', 'licensed_to_broadcast_to', 'Japan_Aerospace_Exploration_Agency')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.732123522874373,
+            "average_relatedness": -27.3611899763228
+        },
+        "('Czech_Republic', 'Sydney', 'Lily_Afshar', 'part_of', 'Saxony')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 7.57973867042948,
+            "average_relatedness": -27.51348565021741
+        },
+        "('part_of', 'Poland', 'Edinburgh', 'parent_taxon', 'Glaux_maritima')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 7.232031769922414,
+            "average_relatedness": -27.44492655023505
+        },
+        "('member_of_sports_team', 'Atlanta', 'country', 'Kazakhstan', 'terminus_location')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 4.829911052110567,
+            "average_relatedness": -27.277868320515932
+        },
+        "('New_Orleans', 'located_on_terrain_feature', '2012', 'Wyoming', 'inception')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.137200417139448,
+            "average_relatedness": -27.34068875238737
+        },
+        "('Washington', '_D.C.', 'Orientalism', 'movement', 'Turner_Broadcasting_System', 'Domain_Name_System')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 9.485806598042497,
+            "average_relatedness": -27.358864299076945
+        },
+        "('Malta', 'represents', 'Albany', 'field_of_work', 'Brown_University')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 9.251975940951079,
+            "average_relatedness": -27.484222886587148
+        },
+        "('Boston', 'New_Jersey', '13', 'League_of_Legends', 'Orphism')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 9.29622480202989,
+            "average_relatedness": -27.45666427462257
+        },
+        "('Lianne_La_Havas', 'Michigan', 'Salt_Lake_City', 'Lantana', 'Louisiana')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 9.19346506807212,
+            "average_relatedness": -27.48335151706554
+        },
+        "('Sri_Lanka', 'Astrid_Lindgren', 'continent', 'Romania', 'State_of_Palestine')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 7.620092778290948,
+            "average_relatedness": -27.274175948016136
+        },
+        "('part_of', 'editor', 'North_Carolina', 'Berkshire_Hathaway', 'Canadian_Broadcasting_Corporation')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 7.545708291335885,
+            "average_relatedness": -27.282008175923906
+        },
+        "('BBC_One', 'Japan', 'May_9_1943', 'San_Francisco', 'Scotland')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 7.513701352816642,
+            "average_relatedness": -27.465768180816504
+        },
+        "('Three_Kingdoms', 'Russia', 'Moscow', 'Canberra', 'signatory')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 7.795428495423889,
+            "average_relatedness": -27.372647197769435
+        },
+        "('Soundgarden', 'Greece', \"McDonald's\", 'present_in_work', 'Uncle_Remus')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 8.229582853622464,
+            "average_relatedness": -27.46726611513752
+        },
+        "('0.5', 'numeric_value', 'New_South_Wales', 'Rochester', 'Atlanta')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 9.113141195284788,
+            "average_relatedness": -27.51174590925412
+        },
+        "('Fuyang', 'Glarus', 'Glasgow', 'Glasgow_South_Western_Line', 'Glass')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 12.044525405753397,
+            "average_relatedness": -1.8253353495374989
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "BTQ": 0.015296986259366492,
+    "LTQ": 0.022697592058143232,
+    "HTQ": 0.018997289158754864,
+    "Coverage_simple": [
+        {
+            "level": "level0",
+            "min_coverage": 0.0,
+            "max_coverage": 0.0,
+            "average_coverage": 0.0
+        },
+        {
+            "level": "level1",
+            "min_coverage": 0.0,
+            "max_coverage": 0.0,
+            "average_coverage": 0.0
+        }
+    ],
+    "Coverage_doc": [
+        {
+            "level": "level0",
+            "min_coverage": -20.837099058475648,
+            "max_coverage": -19.851591827241833,
+            "average_coverage": -20.34434544285874
+        },
+        {
+            "level": "level1",
+            "min_coverage": -21.52894871228424,
+            "max_coverage": -19.851591827241833,
+            "average_coverage": -20.79150852246466
+        }
+    ],
+    "Coverage_vocab": [
+        {
+            "level": "level0",
+            "min_coverage": 9.456219030234344,
+            "max_coverage": 9.793406536738395,
+            "average_coverage": 9.62481278348637
+        },
+        {
+            "level": "level1",
+            "min_coverage": 9.456219030234344,
+            "max_coverage": 9.793406536738395,
+            "average_coverage": 9.62481278348637
+        }
+    ],
+    "child_relatedness": {
+        "('Q308879.', 'Q1026827', 'Q12313639', 'Q231694', 'Q680770')": {
+            "level": "level1",
+            "min_relatedness": 10.9134818089154,
+            "max_relatedness": 11.067632488742657,
+            "average_relatedness": 10.990557148829028
+        },
+        "('Q7896226', 'Q17143389', 'Q104784.', 'Q4947524', 'Q1239')": {
+            "level": "level1",
+            "min_relatedness": 11.40410472536387,
+            "max_relatedness": 11.40410472536387,
+            "average_relatedness": 11.40410472536387
+        }
+    },
+    "non_child_relatedness": {
+        "('Q308879.', 'Q1026827', 'Q12313639', 'Q231694', 'Q680770')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('Q7896226', 'Q17143389', 'Q104784.', 'Q4947524', 'Q1239')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        }
+    }
+}

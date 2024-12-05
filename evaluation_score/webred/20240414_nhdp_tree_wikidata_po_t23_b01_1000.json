@@ -1,0 +1,35 @@
+{
+    "BTQ": 0.34562092394558847,
+    "LTQ": 0.35779746660911094,
+    "HTQ": 0.3517091952773497,
+    "Coverage_simple": [
+        {
+            "('country', 'located_in_the_administrative_territorial_entity', 'United_States_of_America', 'United_Kingdom', 'capital_of')": 0.055,
+            "('headquarters_location', 'member_of_sports_team', 'encodes', 'San_Francisco', 'league')": 0.009
+        },
+        {
+            "('United_States_of_America', 'shares_border_with', 'located_in_the_administrative_territorial_entity', 'country', 'contains_administrative_territorial_entity')": 0.052,
+            "('Germany', 'Japan', \"People's_Republic_of_China\", 'basin_country', 'part_of')": 0.011,
+            "('part_of', 'conflict', 'World_War_II', 'has_part', 'founded_by')": 0.006,
+            "('performer', 'spouse', 'author', '1', 'Lamborghini')": 0.004,
+            "('country_of_citizenship', 'United_States_of_America', 'member_of_political_party', 'place_of_birth', 'London')": 0.023,
+            "('located_in_the_administrative_territorial_entity', 'location', 'operator', 'California', 'owned_by')": 0.019
+        }
+    ],
+    "Coverage_doc": [
+        -19.480812027782413,
+        -20.498956178573497
+    ],
+    "Coverage_vocab": [
+        -1.97213449141021,
+        0.24196497003037176
+    ],
+    "child_relatedness": {
+        "('headquarters_location', 'member_of_sports_team', 'encodes', 'San_Francisco', 'league')": -27.631021115919335,
+        "('country', 'located_in_the_administrative_territorial_entity', 'United_States_of_America', 'United_Kingdom', 'capital_of')": -7.322440145507617
+    },
+    "non_child_relatedness": {
+        "('headquarters_location', 'member_of_sports_team', 'encodes', 'San_Francisco', 'league')": -27.631021115919335,
+        "('country', 'located_in_the_administrative_territorial_entity', 'United_States_of_America', 'United_Kingdom', 'capital_of')": -17.44114602918901
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "BTQ": 0.12809355638543043,
+    "LTQ": 0.3842806691562914,
+    "HTQ": 0.2561871127708609,
+    "Coverage_simple": [
+        {
+            "level": "level0",
+            "min_coverage": 0.6332599118942731,
+            "max_coverage": 0.6332599118942731,
+            "average_coverage": 0.6332599118942731
+        },
+        {
+            "level": "level1",
+            "min_coverage": 0.6332599118942731,
+            "max_coverage": 0.6332599118942731,
+            "average_coverage": 0.6332599118942731
+        },
+        {
+            "level": "level2",
+            "min_coverage": 0.6332599118942731,
+            "max_coverage": 0.6332599118942731,
+            "average_coverage": 0.6332599118942731
+        }
+    ],
+    "Coverage_doc": [
+        {
+            "level": "level0",
+            "min_coverage": -9.320197838706486,
+            "max_coverage": -9.320197838706486,
+            "average_coverage": -9.320197838706486
+        },
+        {
+            "level": "level1",
+            "min_coverage": -9.320197838706486,
+            "max_coverage": -9.320197838706486,
+            "average_coverage": -9.320197838706486
+        },
+        {
+            "level": "level2",
+            "min_coverage": -9.320197838706486,
+            "max_coverage": -9.320197838706486,
+            "average_coverage": -9.320197838706486
+        }
+    ],
+    "Coverage_vocab": [
+        {
+            "level": "level0",
+            "min_coverage": 0.8426501815281982,
+            "max_coverage": 0.8426501815281982,
+            "average_coverage": 0.8426501815281982
+        },
+        {
+            "level": "level1",
+            "min_coverage": 0.8426501815281982,
+            "max_coverage": 0.8426501815281982,
+            "average_coverage": 0.8426501815281982
+        },
+        {
+            "level": "level2",
+            "min_coverage": 0.8426501815281982,
+            "max_coverage": 0.8426501815281982,
+            "average_coverage": 0.8426501815281982
+        }
+    ],
+    "child_relatedness": {
+        "('http://purl.org/dc/terms/subject', 'http://purl.org/linguistics/gold/hypernym', 'http://dbpedia.org/ontology/team', 'http://dbpedia.org/ontology/subdivision', 'http://dbpedia.org/ontology/country')": {
+            "level": "level2",
+            "min_relatedness": 4.078917820719673,
+            "max_relatedness": 4.078917820719673,
+            "average_relatedness": 4.078917820719673
+        }
+    },
+    "non_child_relatedness": {}
+}

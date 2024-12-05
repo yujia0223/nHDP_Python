@@ -1,0 +1,141 @@
+{
+    "BTQ": 0.5017863659873831,
+    "LTQ": 0.4449708103068035,
+    "HTQ": 0.4733785881470933,
+    "Coverage_simple": [
+        {
+            "level": "level1",
+            "min_coverage": 0.9405286343612335,
+            "max_coverage": 0.9405286343612335,
+            "average_coverage": 0.9405286343612335
+        },
+        {
+            "level": "level2",
+            "min_coverage": 0.5418502202643172,
+            "max_coverage": 0.933920704845815,
+            "average_coverage": 0.8303964757709251
+        },
+        {
+            "level": "level3",
+            "min_coverage": 0.02643171806167401,
+            "max_coverage": 0.933920704845815,
+            "average_coverage": 0.6570301027900147
+        }
+    ],
+    "Coverage_doc": [
+        {
+            "level": "level1",
+            "min_coverage": -10.023896683560361,
+            "max_coverage": -9.330749518748513,
+            "average_coverage": -9.677323101154437
+        },
+        {
+            "level": "level2",
+            "min_coverage": -10.731256029411218,
+            "max_coverage": -9.344289752903885,
+            "average_coverage": -10.136602711836852
+        },
+        {
+            "level": "level3",
+            "min_coverage": -21.851133184974216,
+            "max_coverage": -9.331029907287805,
+            "average_coverage": -12.660530945069036
+        }
+    ],
+    "Coverage_vocab": [
+        {
+            "level": "level1",
+            "min_coverage": -11.751691143361313,
+            "max_coverage": -11.751691143361313,
+            "average_coverage": -11.751691143361313
+        },
+        {
+            "level": "level2",
+            "min_coverage": -8.033643612749552,
+            "max_coverage": 0.8755388038185719,
+            "average_coverage": -4.174724671646216
+        },
+        {
+            "level": "level3",
+            "min_coverage": -9.612189594826008,
+            "max_coverage": 4.882366632311441,
+            "average_coverage": -1.3804105692938036
+        }
+    ],
+    "child_relatedness": {
+        "('http://dbpedia.org/ontology/wikiPageWikiLink', 'http://dbpedia.org/property/wikiPageUsesTemplate', 'http://purl.org/dc/terms/subject', 'http://dbpedia.org/resource/Template:Reflist', 'http://purl.org/linguistics/gold/hypernym')": {
+            "level": "level2",
+            "min_relatedness": 2.0941288318177396,
+            "max_relatedness": 2.130373199997633,
+            "average_relatedness": 2.1122510159076864
+        },
+        "('http://dbpedia.org/ontology/wikiPageWikiLink', 'http://dbpedia.org/property/wikiPageUsesTemplate', 'http://purl.org/dc/terms/subject', 'http://purl.org/linguistics/gold/hypernym', 'http://dbpedia.org/resource/Template:Reflist')": {
+            "level": "level2",
+            "min_relatedness": 1.918725335378915,
+            "max_relatedness": 2.1149776221061356,
+            "average_relatedness": 2.0168514787425256
+        },
+        "('http://dbpedia.org/ontology/wikiPageRedirects', 'http://purl.org/linguistics/gold/hypernym', 'http://dbpedia.org/ontology/wikiPageWikiLink', 'http://dbpedia.org/resource/Template:R_from_move', 'http://dbpedia.org/resource/Island')": {
+            "level": "level3",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 2.4570980374897577,
+            "average_relatedness": -17.601648064789114
+        },
+        "('http://purl.org/dc/terms/subject', 'http://dbpedia.org/resource/Category:Italian_male_painters', 'http://dbpedia.org/property/wikiPageUsesTemplate', 'http://dbpedia.org/resource/Template:Authority_control', 'http://dbpedia.org/resource/Painter')": {
+            "level": "level3",
+            "min_relatedness": 1.4204116208224504,
+            "max_relatedness": 3.3388802082164646,
+            "average_relatedness": 2.6582020669500213
+        },
+        "('http://purl.org/dc/terms/subject', 'http://dbpedia.org/ontology/birthPlace', 'http://dbpedia.org/resource/Category:Living_people', 'http://dbpedia.org/property/birthPlace', 'http://dbpedia.org/ontology/occupation')": {
+            "level": "level3",
+            "min_relatedness": 3.276904890874576,
+            "max_relatedness": 3.9684402048686134,
+            "average_relatedness": 3.663373907760313
+        },
+        "('http://dbpedia.org/resource/Template:Coord', 'http://dbpedia.org/resource/Reservoir', 'http://dbpedia.org/ontology/location', 'http://dbpedia.org/property/location', 'http://dbpedia.org/ontology/wikiPageWikiLink')": {
+            "level": "level3",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 2.461811378645416,
+            "average_relatedness": -7.679291625007004
+        }
+    },
+    "non_child_relatedness": {
+        "('http://dbpedia.org/ontology/wikiPageWikiLink', 'http://dbpedia.org/property/wikiPageUsesTemplate', 'http://purl.org/dc/terms/subject', 'http://dbpedia.org/resource/Template:Reflist', 'http://purl.org/linguistics/gold/hypernym')": {
+            "level": "level2",
+            "min_relatedness": 1.918725335378915,
+            "max_relatedness": 2.1149776221061356,
+            "average_relatedness": 2.0168514787425256
+        },
+        "('http://dbpedia.org/ontology/wikiPageWikiLink', 'http://dbpedia.org/property/wikiPageUsesTemplate', 'http://purl.org/dc/terms/subject', 'http://purl.org/linguistics/gold/hypernym', 'http://dbpedia.org/resource/Template:Reflist')": {
+            "level": "level2",
+            "min_relatedness": 2.0941288318177396,
+            "max_relatedness": 2.130373199997633,
+            "average_relatedness": 2.1122510159076864
+        },
+        "('http://dbpedia.org/ontology/wikiPageRedirects', 'http://purl.org/linguistics/gold/hypernym', 'http://dbpedia.org/ontology/wikiPageWikiLink', 'http://dbpedia.org/resource/Template:R_from_move', 'http://dbpedia.org/resource/Island')": {
+            "level": "level3",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 2.4404041774534133,
+            "average_relatedness": -20.965493404329155
+        },
+        "('http://purl.org/dc/terms/subject', 'http://dbpedia.org/resource/Category:Italian_male_painters', 'http://dbpedia.org/property/wikiPageUsesTemplate', 'http://dbpedia.org/resource/Template:Authority_control', 'http://dbpedia.org/resource/Painter')": {
+            "level": "level3",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.348198653557248,
+            "average_relatedness": -10.447880160457805
+        },
+        "('http://purl.org/dc/terms/subject', 'http://dbpedia.org/ontology/birthPlace', 'http://dbpedia.org/resource/Category:Living_people', 'http://dbpedia.org/property/birthPlace', 'http://dbpedia.org/ontology/occupation')": {
+            "level": "level3",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.9937708171943638,
+            "average_relatedness": -17.373724595458324
+        },
+        "('http://dbpedia.org/resource/Template:Coord', 'http://dbpedia.org/resource/Reservoir', 'http://dbpedia.org/ontology/location', 'http://dbpedia.org/property/location', 'http://dbpedia.org/ontology/wikiPageWikiLink')": {
+            "level": "level3",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 2.4608056615823606,
+            "average_relatedness": -17.982603277581006
+        }
+    }
+}
