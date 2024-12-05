@@ -1,0 +1,39 @@
+{
+    "BTQ": 0.6453792591156073,
+    "LTQ": 0.6633484466891624,
+    "HTQ": 0.6543638529023849,
+    "Coverage_simple": [
+        {
+            "('/people/person/profession', '/award/award_nominee/award_nominations./award/award_nomination/award', '/award/award_nominee/award_nominations./award/award_nomination/nominated_for', '/people/person/nationality', '/people/person/places_lived./people/place_lived/location')": 0.4862325174825175,
+            "('/m/09nqf', '/education/educational_institution/colors', '/m/08mbj5d', '/common/topic/webpage./common/webpage/category', '/education/educational_institution/school_type')": 0.07757867132867133
+        },
+        {
+            "('/education/educational_institution/students_graduates./education/education/major_field_of_study', '/education/educational_institution/students_graduates./education/education/student', '/m/09nqf', '/m/02j62', '/education/university/fraternities_and_sororities')": 0.08369755244755245,
+            "('/music/record_label/artist', '/sports/sports_team/roster./american_football/football_historical_roster_position/position_s', '/sports/sports_team/roster./american_football/football_roster_position/position', '/american_football/football_team/current_roster./sports/sports_team_roster/position', '/soccer/football_team/current_roster./sports/sports_team_roster/position')": 0.024475524475524476,
+            "('/award/award_nominee/award_nominations./award/award_nomination/award_nominee', '/award/award_winner/awards_won./award/award_honor/award_winner', '/people/person/profession', '/tv/tv_producer/programs_produced./tv/tv_producer_term/program', '/award/award_nominee/award_nominations./award/award_nomination/nominated_for')": 0.35423951048951047,
+            "('/award/award_nominee/award_nominations./award/award_nomination/award_nominee', '/award/award_winner/awards_won./award/award_honor/award_winner', '/film/actor/film./film/performance/film', '/award/award_nominee/award_nominations./award/award_nomination/nominated_for', '/award/award_nominee/award_nominations./award/award_nomination/award')": 0.3830856643356643,
+            "('/influence/influence_node/influenced_by', '/people/person/profession', '/award/award_nominee/award_nominations./award/award_nomination/award', '/people/person/nationality', '/people/person/places_lived./people/place_lived/location')": 0.4541083916083916,
+            "('/award/award_nominee/award_nominations./award/award_nomination/award', '/music/artist/track_contributions./music/track_contribution/role', '/people/person/profession', '/award/award_nominee/award_nominations./award/award_nomination/award_nominee', '/award/award_winner/awards_won./award/award_honor/award_winner')": 0.4429632867132867,
+            "('/film/actor/film./film/performance/film', '/award/award_nominee/award_nominations./award/award_nomination/award', '/award/award_nominee/award_nominations./award/award_nomination/nominated_for', '/base/popstra/celebrity/dated./base/popstra/dated/participant', '/base/popstra/celebrity/friendship./base/popstra/friendship/participant')": 0.28321678321678323,
+            "('/award/award_nominee/award_nominations./award/award_nomination/award', '/music/artist/origin', '/m/08mbj5d', '/common/topic/webpage./common/webpage/category', '/tv/tv_network/programs./tv/tv_network_duration/program')": 0.1638986013986014,
+            "('/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film', '/business/business_operation/industry', '/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location', '/organization/organization/headquarters./location/mailing_address/citytown', '/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language')": 0.019230769230769232,
+            "('/education/educational_institution/students_graduates./education/education/student', '/education/educational_institution/students_graduates./education/education/major_field_of_study', '/education/educational_institution/school_type', '/m/01jlsn', '/m/059rby')": 0.07014860139860139
+        }
+    ],
+    "Coverage_doc": [
+        -11.737711918804235,
+        -15.44561128891984
+    ],
+    "Coverage_vocab": [
+        -0.3439535150160473,
+        -0.28881333731960146
+    ],
+    "child_relatedness": {
+        "('/people/person/profession', '/award/award_nominee/award_nominations./award/award_nomination/award', '/award/award_nominee/award_nominations./award/award_nomination/nominated_for', '/people/person/nationality', '/people/person/places_lived./people/place_lived/location')": 4.262208837581204,
+        "('/m/09nqf', '/education/educational_institution/colors', '/m/08mbj5d', '/common/topic/webpage./common/webpage/category', '/education/educational_institution/school_type')": -8.275196973806858
+    },
+    "non_child_relatedness": {
+        "('/people/person/profession', '/award/award_nominee/award_nominations./award/award_nomination/award', '/award/award_nominee/award_nominations./award/award_nomination/nominated_for', '/people/person/nationality', '/people/person/places_lived./people/place_lived/location')": -21.21335027684528,
+        "('/m/09nqf', '/education/educational_institution/colors', '/m/08mbj5d', '/common/topic/webpage./common/webpage/category', '/education/educational_institution/school_type')": -27.63102111592302
+    }
+}

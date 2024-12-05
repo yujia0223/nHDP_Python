@@ -1,0 +1,75 @@
+{
+    "BTQ": 0.40781508263781835,
+    "LTQ": 0.40742951489230983,
+    "HTQ": 0.40762229876506406,
+    "Coverage_simple": [
+        {
+            "level": "level1",
+            "min_coverage": 0.0079,
+            "max_coverage": 0.0526,
+            "average_coverage": 0.03025
+        },
+        {
+            "level": "level2",
+            "min_coverage": 0.0016,
+            "max_coverage": 0.0196,
+            "average_coverage": 0.008499999999999999
+        }
+    ],
+    "Coverage_doc": [
+        {
+            "level": "level1",
+            "min_coverage": -19.970012187295406,
+            "max_coverage": -18.498923924659096,
+            "average_coverage": -19.234468055977253
+        },
+        {
+            "level": "level2",
+            "min_coverage": -22.63291116287352,
+            "max_coverage": -19.624949597786618,
+            "average_coverage": -21.371947103150223
+        }
+    ],
+    "Coverage_vocab": [
+        {
+            "level": "level1",
+            "min_coverage": -4.990215755374032,
+            "max_coverage": 2.053156608658212,
+            "average_coverage": -1.46852957335791
+        },
+        {
+            "level": "level2",
+            "min_coverage": -1.3910240472095572,
+            "max_coverage": 4.235018408332281,
+            "average_coverage": 2.258504045818824
+        }
+    ],
+    "child_relatedness": {
+        "('country', 'United_States_of_America', 'located_in_the_administrative_territorial_entity', 'Australia', 'United_Kingdom')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.585375202999498,
+            "average_relatedness": -17.225555676285865
+        },
+        "('2', 'member_of_sports_team', 'oxidation_state', 'headquarters_location', 'part_of')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        }
+    },
+    "non_child_relatedness": {
+        "('country', 'United_States_of_America', 'located_in_the_administrative_territorial_entity', 'Australia', 'United_Kingdom')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('2', 'member_of_sports_team', 'oxidation_state', 'headquarters_location', 'part_of')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.886605496617832,
+            "average_relatedness": -17.125145578413086
+        }
+    }
+}

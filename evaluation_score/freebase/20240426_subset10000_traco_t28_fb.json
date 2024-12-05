@@ -1,0 +1,75 @@
+{
+    "BTQ": 0.5361037523552262,
+    "LTQ": 0.5415762495375769,
+    "HTQ": 0.5388400009464016,
+    "Coverage_simple": [
+        {
+            "level": "level0",
+            "min_coverage": 0.0001,
+            "max_coverage": 0.0746,
+            "average_coverage": 0.03735
+        },
+        {
+            "level": "level1",
+            "min_coverage": 0.0,
+            "max_coverage": 0.0734,
+            "average_coverage": 0.011587499999999999
+        }
+    ],
+    "Coverage_doc": [
+        {
+            "level": "level0",
+            "min_coverage": -21.022072626022883,
+            "max_coverage": -17.279593102432642,
+            "average_coverage": -19.150832864227763
+        },
+        {
+            "level": "level1",
+            "min_coverage": -25.158466512764495,
+            "max_coverage": -18.732640295270617,
+            "average_coverage": -22.494865078421416
+        }
+    ],
+    "Coverage_vocab": [
+        {
+            "level": "level0",
+            "min_coverage": 2.6276301087978897,
+            "max_coverage": 8.345497729627303,
+            "average_coverage": 5.486563919212596
+        },
+        {
+            "level": "level1",
+            "min_coverage": 2.6515497479891716,
+            "max_coverage": 9.299595916640648,
+            "average_coverage": 6.225264518749308
+        }
+    ],
+    "child_relatedness": {
+        "('/m/02z3r8t', '/award/award_nominee/award_nominations./award/award_nomination/award_nominee', '/m/06z8s_', '/m/039cq4', '/m/051zy_b', '/m/06g2d1', '/m/034qzw', '/m/01gvts', '/m/0gh65c5', '/m/0gtvrv3', '/m/026l37.', '/m/0sxgv', '/m/03n3gl.', '/m/025t7ly', '/m/0418wg')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 6.928570534049375,
+            "average_relatedness": -18.991123203434068
+        },
+        "('/m/01n6r0', '/m/02482c', '/m/02xpy5', '/m/027kp3', '/m/06dfg', '/m/02cvcd', '/m/06srk', '/m/01n1pp', '/m/0277jc', '/m/0fhzy', '/m/03zw80', '/m/04cnp4', '/m/016w7b', '/m/036hnm', '/m/04gqr.')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        }
+    },
+    "non_child_relatedness": {
+        "('/m/02z3r8t', '/award/award_nominee/award_nominations./award/award_nomination/award_nominee', '/m/06z8s_', '/m/039cq4', '/m/051zy_b', '/m/06g2d1', '/m/034qzw', '/m/01gvts', '/m/0gh65c5', '/m/0gtvrv3', '/m/026l37.', '/m/0sxgv', '/m/03n3gl.', '/m/025t7ly', '/m/0418wg')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('/m/01n6r0', '/m/02482c', '/m/02xpy5', '/m/027kp3', '/m/06dfg', '/m/02cvcd', '/m/06srk', '/m/01n1pp', '/m/0277jc', '/m/0fhzy', '/m/03zw80', '/m/04cnp4', '/m/016w7b', '/m/036hnm', '/m/04gqr.')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        }
+    }
+}

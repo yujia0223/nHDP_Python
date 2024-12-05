@@ -1,0 +1,267 @@
+{
+    "BTQ": 0.2987117188693524,
+    "LTQ": 0.2278238504916971,
+    "HTQ": 0.26326778468052475,
+    "Coverage_simple": [
+        {
+            "level": "level0",
+            "min_coverage": 0.0001,
+            "max_coverage": 0.0001,
+            "average_coverage": 0.0001
+        },
+        {
+            "level": "level1",
+            "min_coverage": 0.0,
+            "max_coverage": 0.0244,
+            "average_coverage": 0.0041
+        },
+        {
+            "level": "level2",
+            "min_coverage": 0.0,
+            "max_coverage": 0.0283,
+            "average_coverage": 8.210361067503925e-05
+        }
+    ],
+    "Coverage_doc": [
+        {
+            "level": "level0",
+            "min_coverage": -9.508573509724735,
+            "max_coverage": -9.508573509724735,
+            "average_coverage": -9.508573509724735
+        },
+        {
+            "level": "level1",
+            "min_coverage": -20.45588536481016,
+            "max_coverage": -9.455088876596694,
+            "average_coverage": -14.223967940277586
+        },
+        {
+            "level": "level2",
+            "min_coverage": -27.36868519646129,
+            "max_coverage": -16.20770845765507,
+            "average_coverage": -26.26937334802153
+        }
+    ],
+    "Coverage_vocab": [
+        {
+            "level": "level0",
+            "min_coverage": -4.596267318202665,
+            "max_coverage": -4.596267318202665,
+            "average_coverage": -4.596267318202665
+        },
+        {
+            "level": "level1",
+            "min_coverage": -4.1870126159523,
+            "max_coverage": 0.37089661194349244,
+            "average_coverage": -2.050096979261373
+        },
+        {
+            "level": "level2",
+            "min_coverage": -0.4315012406749515,
+            "max_coverage": 9.793406554674783,
+            "average_coverage": 8.46503065447016
+        }
+    ],
+    "child_relatedness": {
+        "('P31', 'P17', 'Q5', 'P27', 'Q30')": {
+            "level": "level1",
+            "min_relatedness": 2.2292628227740496,
+            "max_relatedness": 3.110318378872819,
+            "average_relatedness": 2.840932332537423
+        },
+        "('P106', 'Q5', 'P27', 'P19', 'P735')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928544
+        },
+        "('P136', 'P17', 'P31', 'P131', 'Q183')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.433898454010606,
+            "average_relatedness": -26.971299865468982
+        },
+        "('Q5', 'P69', 'P27', 'P106', 'P19')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.63102111592855
+        },
+        "('Q5', 'P17', 'P136', 'P735', 'P27')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('P17', 'P361', 'Q5', 'P127', 'P131')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928544
+        },
+        "('Q5', 'P279', 'P2293', 'P360', 'P17')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 4.209508164644989,
+            "average_relatedness": -27.242721978360578
+        },
+        "('P27', 'P17', 'P131', 'P735', 'Q5')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928544
+        },
+        "('P136', 'P17', 'P27', 'P360', 'Q5')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.63102111592855
+        },
+        "('Q5', 'P17', 'P131', 'P31', 'P361')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('P735', 'P31', 'P27', 'P361', 'P131')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('P131', 'P31', 'P17', 'P361', 'P279')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('P17', 'Q5', 'P31', 'P106', 'P136')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('P69', 'P495', 'Q5', 'P17', 'P31')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('P106', 'P495', 'P136', 'Q5', 'P31')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('P17', 'Q5', 'Q668', 'P131', 'Q35409')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.444747672495558,
+            "average_relatedness": -27.12158228333143
+        },
+        "('P17', 'P131', 'P1441', 'P735', 'P136')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 4.06503230967334,
+            "average_relatedness": -26.830296722631367
+        }
+    },
+    "non_child_relatedness": {
+        "('P106', 'Q5', 'P27', 'P19', 'P735')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.6441160154623065,
+            "average_relatedness": -27.498967407200254
+        },
+        "('P136', 'P17', 'P31', 'P131', 'Q183')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.4324120867318344,
+            "average_relatedness": -27.578417211104053
+        },
+        "('Q5', 'P69', 'P27', 'P106', 'P19')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.715584476165707,
+            "average_relatedness": -27.474502320151657
+        },
+        "('Q5', 'P17', 'P136', 'P735', 'P27')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.671137109492865,
+            "average_relatedness": -27.55231441309356
+        },
+        "('P17', 'P361', 'Q5', 'P127', 'P131')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.9374437916823664,
+            "average_relatedness": -27.524380573491836
+        },
+        "('Q5', 'P279', 'P2293', 'P360', 'P17')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 4.211162972237573,
+            "average_relatedness": -27.550961837217166
+        },
+        "('P27', 'P17', 'P131', 'P735', 'Q5')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.57045994834671,
+            "average_relatedness": -27.526975587754784
+        },
+        "('P136', 'P17', 'P27', 'P360', 'Q5')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.827691284336525,
+            "average_relatedness": -27.55217135988177
+        },
+        "('Q5', 'P17', 'P131', 'P31', 'P361')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.2693858021752833,
+            "average_relatedness": -27.528755306367245
+        },
+        "('P735', 'P31', 'P27', 'P361', 'P131')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.3940952405848477,
+            "average_relatedness": -27.55346617771964
+        },
+        "('P131', 'P31', 'P17', 'P361', 'P279')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.467165701241819,
+            "average_relatedness": -27.5009257925896
+        },
+        "('P17', 'Q5', 'P31', 'P106', 'P136')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.224742703555263,
+            "average_relatedness": -27.502247906769952
+        },
+        "('P69', 'P495', 'Q5', 'P17', 'P31')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.318085013377604,
+            "average_relatedness": -27.477826663932674
+        },
+        "('P106', 'P495', 'P136', 'Q5', 'P31')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.370575564924207,
+            "average_relatedness": -27.52897630183188
+        },
+        "('P17', 'Q5', 'Q668', 'P131', 'Q35409')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.9575903570730797,
+            "average_relatedness": -27.553535622827514
+        },
+        "('P17', 'P131', 'P1441', 'P735', 'P136')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 4.063377502080756,
+            "average_relatedness": -27.49936636520684
+        }
+    }
+}

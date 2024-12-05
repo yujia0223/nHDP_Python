@@ -1,0 +1,75 @@
+{
+    "BTQ": 0.6809748327944454,
+    "LTQ": 0.7578156076066234,
+    "HTQ": 0.7193952202005344,
+    "Coverage_simple": [
+        {
+            "level": "level0",
+            "min_coverage": 0.2115,
+            "max_coverage": 0.316,
+            "average_coverage": 0.26375
+        },
+        {
+            "level": "level1",
+            "min_coverage": 0.0082,
+            "max_coverage": 0.2976,
+            "average_coverage": 0.12698749999999998
+        }
+    ],
+    "Coverage_doc": [
+        {
+            "level": "level0",
+            "min_coverage": -12.320626715351239,
+            "max_coverage": -12.137577792926734,
+            "average_coverage": -12.229102254138986
+        },
+        {
+            "level": "level1",
+            "min_coverage": -20.805342564254993,
+            "max_coverage": -11.80958159406137,
+            "average_coverage": -15.608751015489585
+        }
+    ],
+    "Coverage_vocab": [
+        {
+            "level": "level0",
+            "min_coverage": -3.2922713067271197,
+            "max_coverage": -0.945596393229098,
+            "average_coverage": -2.118933849978109
+        },
+        {
+            "level": "level1",
+            "min_coverage": -1.9654252317736158,
+            "max_coverage": 3.6945116140666086,
+            "average_coverage": 0.7564648853602293
+        }
+    ],
+    "child_relatedness": {
+        "('/location/location/contains', '/film/film/release_date_s./film/film_regional_release_date/film_release_region', '/m/09nqf', '/common/topic/webpage./common/webpage/category', '/m/08mbj5d', '/award/award_ceremony/awards_presented./award/award_honor/award_winner', '/education/educational_institution/students_graduates./education/education/major_field_of_study', '/education/educational_institution/students_graduates./education/education/student', '/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country', '/music/record_label/artist', '/soccer/football_team/current_roster./sports/sports_team_roster/position', '/soccer/football_team/current_roster./soccer/football_roster_position/position', '/location/location/adjoin_s./location/adjoining_relationship/adjoins', '/people/ethnicity/people', '/film/film/genre')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 5.572988339973216,
+            "average_relatedness": -3.3083196386316933
+        },
+        "('/award/award_nominee/award_nominations./award/award_nomination/award_nominee', '/award/award_nominee/award_nominations./award/award_nomination/award', '/people/person/profession', '/film/actor/film./film/performance/film', '/award/award_winner/awards_won./award/award_honor/award_winner', '/award/award_nominee/award_nominations./award/award_nomination/nominated_for', '/people/person/nationality', '/people/person/gender', '/people/person/places_lived./people/place_lived/location', '/people/person/spouse_s./people/marriage/type_of_union', '/m/05zppz', '/people/person/place_of_birth', '/m/04ztj', '/m/09c7w0', '/m/02hrh1q')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 5.130433656834014,
+            "average_relatedness": -3.284991194057147
+        }
+    },
+    "non_child_relatedness": {
+        "('/location/location/contains', '/film/film/release_date_s./film/film_regional_release_date/film_release_region', '/m/09nqf', '/common/topic/webpage./common/webpage/category', '/m/08mbj5d', '/award/award_ceremony/awards_presented./award/award_honor/award_winner', '/education/educational_institution/students_graduates./education/education/major_field_of_study', '/education/educational_institution/students_graduates./education/education/student', '/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country', '/music/record_label/artist', '/soccer/football_team/current_roster./sports/sports_team_roster/position', '/soccer/football_team/current_roster./soccer/football_roster_position/position', '/location/location/adjoin_s./location/adjoining_relationship/adjoins', '/people/ethnicity/people', '/film/film/genre')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('/award/award_nominee/award_nominations./award/award_nomination/award_nominee', '/award/award_nominee/award_nominations./award/award_nomination/award', '/people/person/profession', '/film/actor/film./film/performance/film', '/award/award_winner/awards_won./award/award_honor/award_winner', '/award/award_nominee/award_nominations./award/award_nomination/nominated_for', '/people/person/nationality', '/people/person/gender', '/people/person/places_lived./people/place_lived/location', '/people/person/spouse_s./people/marriage/type_of_union', '/m/05zppz', '/people/person/place_of_birth', '/m/04ztj', '/m/09c7w0', '/m/02hrh1q')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.276088300352566,
+            "average_relatedness": -19.904243761858268
+        }
+    }
+}

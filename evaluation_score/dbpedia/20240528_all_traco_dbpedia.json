@@ -1,0 +1,141 @@
+{
+    "BTQ": 0.4432886600820976,
+    "LTQ": 0.44937128751981414,
+    "HTQ": 0.44632997380095585,
+    "Coverage_simple": [
+        {
+            "level": "level0",
+            "min_coverage": 0.0,
+            "max_coverage": 0.5429515418502202,
+            "average_coverage": 0.2714757709251101
+        },
+        {
+            "level": "level1",
+            "min_coverage": 0.0,
+            "max_coverage": 0.042951541850220265,
+            "average_coverage": 0.018722466960352423
+        },
+        {
+            "level": "level2",
+            "min_coverage": 0.0,
+            "max_coverage": 0.4856828193832599,
+            "average_coverage": 0.08727973568281938
+        }
+    ],
+    "Coverage_doc": [
+        {
+            "level": "level0",
+            "min_coverage": -25.13806808242175,
+            "max_coverage": -9.324440458610768,
+            "average_coverage": -17.23125427051626
+        },
+        {
+            "level": "level1",
+            "min_coverage": -25.401997242003763,
+            "max_coverage": -21.499827720931236,
+            "average_coverage": -23.42014032889005
+        },
+        {
+            "level": "level2",
+            "min_coverage": -26.72231340927522,
+            "max_coverage": -10.060310357900201,
+            "average_coverage": -23.238387017554434
+        }
+    ],
+    "Coverage_vocab": [
+        {
+            "level": "level0",
+            "min_coverage": 1.0454535997087864,
+            "max_coverage": 7.971521846313897,
+            "average_coverage": 4.508487723011342
+        },
+        {
+            "level": "level1",
+            "min_coverage": 4.816326685975483,
+            "max_coverage": 7.001553961077246,
+            "average_coverage": 5.499369089977017
+        },
+        {
+            "level": "level2",
+            "min_coverage": 1.2895954886648184,
+            "max_coverage": 8.934236889728115,
+            "average_coverage": 6.184209114886237
+        }
+    ],
+    "child_relatedness": {
+        "('http://dbpedia.org/property/bench2C', 'http://dbpedia.org/property/after', 'http://dbpedia.org/resource/Category:Populated_places_in_San_Felipe_de_Aconcagua_Province.', 'http://dbpedia.org/resource/HC_Slovan_\u00daste\u010dt\u00ed_Lvi', 'http://dbpedia.org/property/designation')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://dbpedia.org/property/clubs', 'http://dbpedia.org/ontology/nationality', 'http://dbpedia.org/property/nationalteam', 'http://purl.org/dc/terms/subject', 'http://purl.org/linguistics/gold/hypernym')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://dbpedia.org/property/youthclubs', 'http://dbpedia.org/resource/3\u20134_defense', 'http://dbpedia.org/property/currentclub', 'http://dbpedia.org/property/strokes', 'http://dbpedia.org/ontology/currency')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://dbpedia.org/ontology/subdivision', 'http://dbpedia.org/property/timezone', 'http://dbpedia.org/ontology/country', 'http://dbpedia.org/ontology/type', 'http://dbpedia.org/property/source')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://dbpedia.org/ontology/position', 'http://dbpedia.org/property/position', 'http://dbpedia.org/ontology/team', 'http://dbpedia.org/property/team', 'http://dbpedia.org/property/college')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 3.3231487129270136,
+            "average_relatedness": -17.312964506310028
+        },
+        "('http://dbpedia.org/ontology/location', 'http://dbpedia.org/property/location', 'http://dbpedia.org/ontology/instrument', 'http://dbpedia.org/ontology/occupation', 'http://dbpedia.org/ontology/genre')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 6.37478967650684,
+            "average_relatedness": -5.102367363960561
+        }
+    },
+    "non_child_relatedness": {
+        "('http://dbpedia.org/property/bench2C', 'http://dbpedia.org/property/after', 'http://dbpedia.org/resource/Category:Populated_places_in_San_Felipe_de_Aconcagua_Province.', 'http://dbpedia.org/resource/HC_Slovan_\u00daste\u010dt\u00ed_Lvi', 'http://dbpedia.org/property/designation')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://dbpedia.org/property/clubs', 'http://dbpedia.org/ontology/nationality', 'http://dbpedia.org/property/nationalteam', 'http://purl.org/dc/terms/subject', 'http://purl.org/linguistics/gold/hypernym')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://dbpedia.org/property/youthclubs', 'http://dbpedia.org/resource/3\u20134_defense', 'http://dbpedia.org/property/currentclub', 'http://dbpedia.org/property/strokes', 'http://dbpedia.org/ontology/currency')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://dbpedia.org/ontology/subdivision', 'http://dbpedia.org/property/timezone', 'http://dbpedia.org/ontology/country', 'http://dbpedia.org/ontology/type', 'http://dbpedia.org/property/source')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('http://dbpedia.org/ontology/position', 'http://dbpedia.org/property/position', 'http://dbpedia.org/ontology/team', 'http://dbpedia.org/property/team', 'http://dbpedia.org/property/college')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 5.857563800446914,
+            "average_relatedness": -23.910067236331273
+        },
+        "('http://dbpedia.org/ontology/location', 'http://dbpedia.org/property/location', 'http://dbpedia.org/ontology/instrument', 'http://dbpedia.org/ontology/occupation', 'http://dbpedia.org/ontology/genre')": {
+            "level": "level2",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        }
+    }
+}

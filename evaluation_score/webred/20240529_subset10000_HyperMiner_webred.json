@@ -1,0 +1,75 @@
+{
+    "BTQ": 0.36696366060932184,
+    "LTQ": 0.37380112937040577,
+    "HTQ": 0.3703823949898638,
+    "Coverage_simple": [
+        {
+            "level": "level0",
+            "min_coverage": 0.01,
+            "max_coverage": 0.0465,
+            "average_coverage": 0.02825
+        },
+        {
+            "level": "level1",
+            "min_coverage": 0.0041,
+            "max_coverage": 0.0452,
+            "average_coverage": 0.022899999999999997
+        }
+    ],
+    "Coverage_doc": [
+        {
+            "level": "level0",
+            "min_coverage": -20.055749247480716,
+            "max_coverage": -19.493165430569174,
+            "average_coverage": -19.774457339024945
+        },
+        {
+            "level": "level1",
+            "min_coverage": -21.26309452796161,
+            "max_coverage": -19.5313883642807,
+            "average_coverage": -20.420905594144433
+        }
+    ],
+    "Coverage_vocab": [
+        {
+            "level": "level0",
+            "min_coverage": -4.988074901497685,
+            "max_coverage": 1.7096756416828505,
+            "average_coverage": -1.639199629907417
+        },
+        {
+            "level": "level1",
+            "min_coverage": -5.31265320981267,
+            "max_coverage": 2.8734434247877205,
+            "average_coverage": -1.0696493842875034
+        }
+    ],
+    "child_relatedness": {
+        "('country_of_citizenship', 'member_of_sports_team', 'has_part', 'oxidation_state', 'place_of_birth')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": 5.538865337454215,
+            "average_relatedness": -5.9277819677289605
+        },
+        "('country', 'located_in_the_administrative_territorial_entity', 'capital_of', 'headquarters_location', 'diplomatic_relation')": {
+            "level": "level1",
+            "min_relatedness": 3.3094917718905723,
+            "max_relatedness": 4.0604158557007315,
+            "average_relatedness": 3.7617766129536707
+        }
+    },
+    "non_child_relatedness": {
+        "('country_of_citizenship', 'member_of_sports_team', 'has_part', 'oxidation_state', 'place_of_birth')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        },
+        "('country', 'located_in_the_administrative_territorial_entity', 'capital_of', 'headquarters_location', 'diplomatic_relation')": {
+            "level": "level1",
+            "min_relatedness": -27.631021115928547,
+            "max_relatedness": -27.631021115928547,
+            "average_relatedness": -27.631021115928547
+        }
+    }
+}
